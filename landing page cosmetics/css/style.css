@@ -1,0 +1,30 @@
+.header-1{
+    position: absolute;
+    width: 117px;
+height: 21px;
+left: 121px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+
+color: #FFFFFF;
+}
+.header-2{
+    position: absolute;
+width: 1920px;
+height: 49px;
+left: 0px;
+top: 0px;
+
+background: #323232;
+}
+.vector{
+    position: absolute;
+    height: 21px;
+    left: 249px;
+
+background: #F7B0C3;
+}
